@@ -1,0 +1,12 @@
+# MRI files 
+*.nii.gz 
+*.nrrd
+
+# log files 
+*.log 
+
+# specific folders 
+archive/
+
+# specific files 
+gitignore_example
