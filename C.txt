@@ -1,1 +1,1 @@
-This is a text file with a lot of information. 
+some new changes that i just created in the cloned copy of the repository
